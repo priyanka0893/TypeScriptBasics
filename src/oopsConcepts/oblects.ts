@@ -1,0 +1,1 @@
+console.log(Entering into objects.ts file);
